@@ -1,0 +1,7 @@
+[application]
+config/name="godot-rpc"
+run/main_scene="res://main.tscn"
+
+[display]
+window/size/width=800
+window/size/height=600
