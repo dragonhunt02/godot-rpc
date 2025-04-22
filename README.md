@@ -1,10 +1,10 @@
 # godot-rpc
 As client
 ```
-godot --path MyRpcTestProject
+godot --path godot-rpc
 ```
 
 As server
 ```
-godot --server --path MyRpcTestProject
+godot --server --path godot-rpc
 ```
